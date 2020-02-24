@@ -1,0 +1,13 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=tcp:lifebalanceimprovementdbserver.database.windows.net,1433;Initial Catalog=LifeBalanceImprovement_db;User Id=BartVermeylen@lifebalanceimprovementdbserver;Password=LBI12345."
+  }
+}
